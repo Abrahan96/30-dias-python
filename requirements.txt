@@ -1,0 +1,4 @@
+# Agregar dependencias cuando sean necesarias.
+# Ejemplo:
+# requests
+# pandas
